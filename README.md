@@ -1,5 +1,5 @@
 # DNA_Analyzer
-Program to analyze DNA knock-out screens
+Python program to analyze DNA knock-out screens
 
 The goal of the program is to read in fastq files, check if the target sequence is in the screening library, and compile a dataframe of hit counts.
 
